@@ -31,7 +31,7 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[📄 Automação de Renomeação de Comprovantes]([LINK_DO_SEU_REPOSITORIO_AQUI](https://github.com/CamillaTorquato/automacao-renomeacao-comprovantes))** | Remoção de informações de PDFs e padronização de nomes com Python. | `Python` |
+| **[📄 Automação de Renomeação de Comprovantes]([[https://github.com/CamillaTorquato/automacao-renomeacao-comprovantes]])** | Remoção de informações de PDFs e padronização de nomes com Python. | `Python` |
 | **[📊 Automação de Documentos Financeiros]([LINK_DO_SEU_REPOSITORIO_AQUI](https://github.com/CamillaTorquato/automacao-documentos-apps-script))** | Localização de notas fiscais e boletos no Drive e vinculação de documentos aos lançamentos no Planilhas. | `Google Apps Script` `Google Sheets` |
 
 ---
