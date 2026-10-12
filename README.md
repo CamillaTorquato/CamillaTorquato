@@ -1,20 +1,49 @@
-**Olá! 👋 Sou a Camilla**
+<h1 align="center">Olá! 👋 Sou a Camilla</h1>
 
-💰 Profissional da área financeira, interessada em dados, tecnologia e automação de processos.
+<p align="center">
+  💰 Profissional da área financeira, interessado em dados, tecnologia e automação de processos.
+</p>
 
-Acredito que a tecnologia pode tornar as rotinas financeiras mais eficientes. Por isso, venho desenvolvendo projetos próprios para reduzir tarefas manuais, organizar documentos e melhorar processos do dia a dia.
+<p align="center">
+  Acredito que a tecnologia pode tornar as rotinas financeiras mais eficientes. Por isso, venho desenvolvendo projetos próprios para reduzir tarefas manuais, organizar documentos e melhorar processos do dia a dia.
+</p>
 
-**🛠️ Tecnologias**
+---
 
-- **Python:** automação de tarefas e manipulação de PDFs.
-- **Google Apps Script:** automação de planilhas e documentos.
-- **Google Sheets e Google Drive:** organização e integração de informações.
-- **Git e GitHub:** versionamento e documentação de projetos.
-  
-**📂 Projetos em destaque**
-- 📄 Automação de Renomeação de Comprovantes: extração de informações de PDFs e padronização de nomes com Python.
-- 📊 Automação de Documentos Financeiros: localização de notas fiscais e boletos no Drive e vinculação dos documentos aos lançamentos no Sheets.
+### 🛠️ Tecnologias
 
-**🌱 Atualmente**
+*   **Python:** automação de tarefas e manipulação de PDFs.
+*   **Google Apps Script:** automação de planilhas e documentos.
+*   **Planilhas Google e Google Drive:** organização e integração de informações.
+*   **Git e GitHub:** versionamento e documentação de projetos.
 
-Aprendendo na prática, aprimorando meus projetos e explorando novas formas de unir Finanças, Dados e Automação.
+---
+
+### 📂 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[📄 Automação de Renomeação de Comprovantes](LINK_DO_SEU_REPOSITORIO_AQUI)** | Remoção de informações de PDFs e padronização de nomes com Python. | `Python` |
+| **[📊 Automação de Documentos Financeiros](LINK_DO_SEU_REPOSITORIO_AQUI)** | Localização de notas fiscais e boletos no Drive e vinculação de documentos aos lançamentos no Planilhas. | `Google Apps Script` `Google Sheets` |
+
+---
+
+### 🌱 Atualmente
+
+Aprendendo na prática, aprimorando meus projetos e explorando novas formas de unir **Finanças, Dados e Automação**.
+
+---
+
+
+<p align="center">
+  <span style="color: #8CCFFF;">
+    ✧ 𝓔𝓼𝓽𝓮 𝓹𝓮𝓻𝓯𝓲𝓵 é 𝓶𝓮𝓾 𝓮𝓼𝓹𝓪ç𝓸 𝓹𝓪𝓻𝓪 𝓪𝓹𝓻𝓮𝓷𝓭𝓮𝓻, 𝓮𝔁𝓹𝓮𝓻𝓲𝓶𝓮𝓷𝓽𝓪𝓻 𝓮 𝓮𝓿𝓸𝓵𝓾𝓲𝓻, 𝓾𝓶 𝓹𝓻𝓸𝓳𝓮𝓽𝓸 𝓭𝓮 𝓬𝓪𝓭𝓪 𝓿𝓮𝔃. ✧
+  </span>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=55CFC3&height=2&section=header" width="45%" alt="linha decorativa"/>
+</p>
+
+
+
