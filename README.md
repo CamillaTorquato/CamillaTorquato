@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./banner-github.png" alt="Camilla Torquato — Finanças, Dados e Automação" width="100%">
+  <img src="Espaço Tech Noturno de Camilla Torquato.png" alt="Camilla Torquato — Finanças, Dados e Automação" width="100%">
 </p>
 
 <br>
