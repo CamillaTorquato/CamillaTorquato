@@ -34,12 +34,15 @@ Aprendendo na prática, aprimorando meus projetos e explorando novas formas de u
 
 ---
 
+<br>
 
-<p align="center">
-  <span style="color: #8CCFFF;">
-    ✧ 𝓔𝓼𝓽𝓮 𝓹𝓮𝓻𝓯𝓲𝓵 é 𝓶𝓮𝓾 𝓮𝓼𝓹𝓪ç𝓸 𝓹𝓪𝓻𝓪 𝓪𝓹𝓻𝓮𝓷𝓭𝓮𝓻, 𝓮𝔁𝓹𝓮𝓻𝓲𝓶𝓮𝓷𝓽𝓪𝓻 𝓮 𝓮𝓿𝓸𝓵𝓾𝓲𝓻, 𝓾𝓶 𝓹𝓻𝓸𝓳𝓮𝓽𝓸 𝓭𝓮 𝓬𝓪𝓭𝓪 𝓿𝓮𝔃. ✧
-  </span>
-</p>
+<div align="center">
+  <div style="border: 2px solid #2ea043; border-radius: 10px; padding: 15px 30px; display: inline-block; background-color: #0d1117;">
+    <span style="color: #8CCFFF; font-size: 16px;">
+      ✧ 𝓔𝓼𝓽𝓮 𝓹𝓮𝓻𝓯𝓲𝓵 é 𝓶𝓮𝓾 𝓮𝓼𝓹𝓪ç𝓸 𝓹𝓪𝓻𝓪 𝓪𝓹𝓻𝓮𝓷𝓭𝓮𝓻, 𝓮𝔁𝓹𝓮𝓻𝓲𝓶𝓮𝓷𝓽𝓪𝓻 𝓮 𝓮𝓿𝓸𝓵𝓾𝓲𝓻, 𝓾𝓶 𝓹𝓻𝓸𝓳𝓮𝓽𝓸 𝓭𝓮 𝓬𝓪𝓭𝓪 𝓿𝓮𝔃. ✧
+    </span>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=55CFC3&height=2&section=header" width="45%" alt="linha decorativa"/>
