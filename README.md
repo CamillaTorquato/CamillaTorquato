@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="./banner-github.png" alt="Camilla Torquato — Finanças, Dados e Automação" width="100%">
+</p>
+
+<br>
+
+
 <h1 align="center">Olá! 👋 Sou a Camilla</h1>
 
 <p align="center">
